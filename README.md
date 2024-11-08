@@ -1,5 +1,10 @@
 ## Hiroaki there 👋
 
+Nice to meet you, my name is Baba!
+My special skill is rock-paper-scissors, and my hobby is molestation.
+I also like rotten raw meat.
+I am looking forward to meeting you!
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiroaki027)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hiroaki027&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
