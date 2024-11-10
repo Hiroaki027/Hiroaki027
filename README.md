@@ -1,5 +1,5 @@
-## 016@K3y there 👋
-
+## 016@K3y there 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Hiroaki027)
+### 1. My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiroaki027)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hiroaki027&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroaki027&theme=2077)
@@ -8,16 +8,20 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiroaki027&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiroaki027&theme=2077&utcOffset=8)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-701516?style=flat&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Hiroaki027)
+### 2. Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+
+### 3. Frameworks
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+
+### 4. Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+### 5. Devops
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+
+### 6. Others
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 <!--
 **Hiroaki027/Hiroaki027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
