@@ -2,6 +2,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiroaki027)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hiroaki027&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroaki027&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiroaki027&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiroaki027&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiroaki027&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiroaki027&theme=2077&utcOffset=8)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
